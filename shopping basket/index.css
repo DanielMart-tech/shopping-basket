@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.img-card-top {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn {
+    margin-bottom: 15px;
+}
